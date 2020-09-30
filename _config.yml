@@ -1,5 +1,5 @@
-timezone:    Europe/Berlin
-future:      false
+# timezone:    Europe/Berlin
+# future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 baseurl:     "/digitalspacestalk"
 # The allowed values are 'rouge', 'pygments' or null.
@@ -17,9 +17,9 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       reveal-jekyll
-author:      Thomas Friese
-description: Reveal.js for Jekyll with Solarized Color theme
+title:       Digital Spaces
+author:      Abhishek Narula
+description: Talk for ARTDES 203
 
 sass:
   style:     :compressed

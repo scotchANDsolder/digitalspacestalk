@@ -1,38 +1,37 @@
 ---
 layout: slide
 title: ""
+data:
+  background: '#000'
 ---
 
 <section markdown="1">
 
 # What are *Digital Spaces* ?
 
-Slides can be nested inside of other slides,  
-try pressing [down](#){: .navigate-down}.
-
 </section>
 <section markdown="1">
 
 ## DIGITAL
 
-Press down or up to navigate.
-
-</section>
-<section markdown="1">
-
-## SPACE
-
-Cornify
-
-[![Unicorn](https://s3.amazonaws.com/hakim-static/reveal-js/cornify.gif)](http://cornify.com){: .test .external}
+![Blue](assets/images/googldigital.png)
 
 </section>
 
 <section markdown="1">
 
-## The DIGITAL is embedded in SPACE
+## Analog = !Digital
 
 
-[![Unicorn](https://s3.amazonaws.com/hakim-static/reveal-js/cornify.gif)](http://cornify.com){: .test .external}
+[![Unicorn](assets/images/googldigital.png)](http://cornify.com){: .test .external}
+
+</section>
+
+<section markdown="1">
+
+## Digital = Spatial & Material
+
+
+![Unicorn](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8pBOQPGzHp8/v0/1000x-1.png){: .test .external}
 
 </section>

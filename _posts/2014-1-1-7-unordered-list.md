@@ -1,9 +1,6 @@
 ---
 layout: slide
-title: Marvelous Unordered List
+title: My work
 ---
 
-- No order here
-- Or here
-- Or here
-- Or here
+in this body of work I am creating shaping Wifi
